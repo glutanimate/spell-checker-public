@@ -1,0 +1,15 @@
+{
+    "display_name": "Spell Checker",
+    "module_name": "spell_checker",
+    "repo_name": "spell-checker-public",
+    "ankiweb_id": "",
+    "author": "Glutanimate",
+    "contact": "https://glutanimate.com",
+    "homepage": "https://github.com/glutanimate/spell-checker",
+    "copyright_start": 2018,
+    "tags": "",
+    "conflicts": ["2064123047", "1103084694"],
+    "targets": [
+        "anki21"
+    ]
+}
